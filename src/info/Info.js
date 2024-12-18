@@ -99,37 +99,37 @@ export const info = {
     portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "Design Procreate 1",
-            live: "https://www.canva.com/design/DAGLORlm3o0/OmsPxDppGIXoQTrjhdCzUw/edit", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            live: "https://www.canva.com/design/DAGLORlm3o0/SO7dshYfIR8iupdaq6WMyw/view?utm_content=DAGLORlm3o0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h315fb36a62", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
             image: mock1
         },
         {
             title: "Design Procreate 2",
-            live: "https://www.canva.com/design/DAGLORlm3o0/OmsPxDppGIXoQTrjhdCzUw/edit",
+            live: "https://www.canva.com/design/DAGLORlm3o0/SO7dshYfIR8iupdaq6WMyw/view?utm_content=DAGLORlm3o0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h315fb36a62",
             image: mock2
         },
         {
             title: "A Design for Kahf Contest",
-            live: "https://www.canva.com/design/DAGMDeQOvZ8/x-C8fPpU9pAQyQVF3yMONg/edit",
+            live: "https://www.canva.com/design/DAFapj9xgAc/5AdrtyV5tXFngFZYVdeXPw/view?utm_content=DAFapj9xgAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d4d3ae9ef",
             image: mock3
         },
         {
             title: "Canva Poster Webinar",
-            live: "https://www.canva.com/design/DAGMDeQOvZ8/x-C8fPpU9pAQyQVF3yMONg/edit?utm_content=DAGMDeQOvZ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+            live: "https://www.canva.com/design/DAFapj9xgAc/5AdrtyV5tXFngFZYVdeXPw/view?utm_content=DAFapj9xgAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d4d3ae9ef",
             image: mock4
         },
         {
             title: "Canva Power Point Design 1",
-            live: "https://www.canva.com/design/DAFfxGeu4_c/VxH3bepHBL_f5gQnoj112g/edit?utm_content=DAFfxGeu4_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+            live: "https://www.canva.com/design/DAFfxGeu4_c/CF54FGoNpqTYEqgsCSi_Vg/view?utm_content=DAFfxGeu4_c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h497a086a5d",
             image: mock5
         }, 
         {
             title: "Canva Power Point Design 2",
-            live: "https://www.canva.com/design/DAFapj9xgAc/WGqB59LlcfmojJ4CdmCn7Q/edit?utm_content=DAFapj9xgAc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+            live: "https://www.canva.com/design/DAFapj9xgAc/5AdrtyV5tXFngFZYVdeXPw/view?utm_content=DAFapj9xgAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d4d3ae9ef",
             image: mock6
         },
         {
             title: "Canva Power Point Design 3",
-            live: "https://www.canva.com/design/DAE7okZ8kuY/3Oq5stu2JqTZQv7SKVRCnA/edit?utm_content=DAE7okZ8kuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+            live: "https://www.canva.com/design/DAFapj9xgAc/5AdrtyV5tXFngFZYVdeXPw/view?utm_content=DAFapj9xgAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d4d3ae9ef",
             image: mock7
         },
     ]
