@@ -109,12 +109,12 @@ export const info = {
         },
         {
             title: "A Design for Kahf Contest",
-            live: "https://www.canva.com/design/DAFapj9xgAc/5AdrtyV5tXFngFZYVdeXPw/view?utm_content=DAFapj9xgAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d4d3ae9ef",
+            live: "https://www.canva.com/design/DAGMDeQOvZ8/Or2XQSztpCZhkzhnKH9c9w/view?utm_content=DAGMDeQOvZ8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5a303690e2",
             image: mock3
         },
         {
             title: "Canva Poster Webinar",
-            live: "https://www.canva.com/design/DAFapj9xgAc/5AdrtyV5tXFngFZYVdeXPw/view?utm_content=DAFapj9xgAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d4d3ae9ef",
+            live: "https://www.canva.com/design/DAFkqJiMUKc/F-fNxgW9qWH5GiycTsxd2g/view?utm_content=DAFkqJiMUKc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc297641976",
             image: mock4
         },
         {
@@ -129,7 +129,7 @@ export const info = {
         },
         {
             title: "Canva Power Point Design 3",
-            live: "https://www.canva.com/design/DAFapj9xgAc/5AdrtyV5tXFngFZYVdeXPw/view?utm_content=DAFapj9xgAc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3d4d3ae9ef",
+            live: "https://www.canva.com/design/DAE7okZ8kuY/uy8WNzbXFOklOhMGZsJ2dA/view?utm_content=DAE7okZ8kuY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1ae59e6dd0",
             image: mock7
         },
     ]
