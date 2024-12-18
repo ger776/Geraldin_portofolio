@@ -114,7 +114,7 @@ export const info = {
         },
         {
             title: "Canva Poster Webinar",
-            live: "https://www.canva.com/design/DAFkqJiMUKc/DrTRQvwzL3z07LEWDAOo5w/edit?utm_content=DAFkqJiMUKc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+            live: "https://www.canva.com/design/DAGMDeQOvZ8/x-C8fPpU9pAQyQVF3yMONg/edit?utm_content=DAGMDeQOvZ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
             image: mock4
         },
         {
