@@ -128,7 +128,7 @@ export const info = {
             image: mock6
         },
         {
-            title: "Canva Power Point Design 3",
+            title: "Canva Power Point Design ",
             live: "https://www.canva.com/design/DAE7okZ8kuY/3Oq5stu2JqTZQv7SKVRCnA/edit?utm_content=DAE7okZ8kuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
             image: mock7
         },
