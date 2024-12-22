@@ -31,8 +31,8 @@ of what each of the values mean.
 export const info = {
     firstName: "Geraldin",
     lastName: "Andira",
-    initials: "ga", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Grapich Design lover!",
+    initials: "Me!", // the example uses first and last, but feel free to use three or more if you like.
+    position: "a Graphic Design lover!",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -47,7 +47,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Bachelor's Degree of Meteorology at Bandung Institut of Technology"
+            text: "Bachelor's Degree of Meteorology at Bandung Institute of Technology"
         },
         {
             emoji: "📧",
@@ -69,7 +69,7 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Geraldin. I'm a grad student of Groundwater Engineering and I studied Meteorology at Bandung Institut of Technology, I enjoy doing graphic design, and I believe aesthetics have important roll in every aspects especially in advertising. You should hire me!",
+    bio: "Hello! I'm Geraldin. I'm a grad student of Groundwater Engineering and I studied Meteorology at Bandung Institute of Technology, I enjoy doing graphic design, and I believe aesthetics have important role in every aspects especially in advertising. You should hire me!",
     skills:
         {
             proficientWith: ['Canva', 'python', 'Capcut' ],
